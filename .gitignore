@@ -35,3 +35,8 @@ terraform.rc
 
 *~
 .dbx
+
+# environments
+.venv
+.env
+.envrc
