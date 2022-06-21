@@ -40,3 +40,6 @@ terraform.rc
 .venv
 .env
 .envrc
+
+# editors
+.vscode
